@@ -28,8 +28,6 @@
 ## General Resources
 
 - **[What is Content Marketing?](https://en.wikipedia.org/wiki/Content_marketing)** - An overview of content marketing and its significance.
-- **[Content Marketing Institute](https://contentmarketinginstitute.com/)** - Industry-leading resources, research, and insights on content marketing.
-- **[HubSpot Content Marketing Blog](https://blog.hubspot.com/marketing)** - Articles and tips for improving content marketing strategies.
 
 ## Content Creation Tools
 
@@ -93,12 +91,12 @@
 - **[Content Marketing Institute Resources](https://contentmarketinginstitute.com/resources/)** - E-books, guides, and templates for content marketers.
 - **[HubSpot Academy Content Marketing Course](https://academy.hubspot.com/courses/content-marketing)** - A free course on content marketing strategies.
 - **[Neil Patel Blog](https://neilpatel.com/blog/)** - Expert tips and insights on content marketing and SEO.
+- **[Swavent Guides](https://swavent.com/en/guides)** - Free guides on Shopify, ecommerce, SEO and web development.
 - **[Books on Content Marketing](https://www.goodreads.com/)** - Popular books like *Everybody Writes* by Ann Handley.
 
 ## Community and Forums
 
 - **[r/ContentMarketing](https://www.reddit.com/r/content_marketing/)** - A subreddit for discussing content marketing strategies and tools.
-- **[Inbound.org](https://inbound.org/)** - A community for sharing and discussing inbound marketing strategies.
 - **[Content Marketing World Community](https://contentmarketinginstitute.com/events/content-marketing-world/)** - A forum for networking with content marketers.
 - **[LinkedIn Content Marketing Groups](https://www.linkedin.com/)** - Professional groups for sharing and discussing content marketing tips.
 - **[Slack: Content Marketers](https://contentmarketers.slack.com/)** - A Slack community for content marketing professionals.
